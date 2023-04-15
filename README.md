@@ -19,3 +19,7 @@ You'll need the following tools and dependencies installed:
 * Prometheus
 * Grafana
 * Slack
+
+## Installing
+Clone the repository:
+bash
