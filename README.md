@@ -24,3 +24,13 @@ You'll need the following tools and dependencies installed:
 1. Clone the repository:`git clone https://github.com/Addax101/cd-pipeline-kubernetes.git`
 
 2. Install the necessary dependencies using your package manager of choice: `npm install`
+3. Set up the required environment variables and Jenkins credentials: 
+```bash
+export ENVIRONMENT=production
+export DOCKER_REGISTRY=your-registry-url
+export KUBECONFIG=path/to/your/kubeconfig
+export JENKINS_USERNAME=your-jenkins-username
+export JENKINS_PASSWORD=your-jenkins-password
+export SLACK_WEBHOOK_URL=your-slack-webhook-url
+
+```
