@@ -34,3 +34,5 @@ export JENKINS_PASSWORD=your-jenkins-password
 export SLACK_WEBHOOK_URL=your-slack-webhook-url
 
 ```
+
+Create a Jenkinsfile in the root directory of your project to define the stages of the pipeline.
