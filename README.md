@@ -9,3 +9,13 @@ CD Pipeline Kubernetes is an end-to-end pipeline that automates the deployment o
 ## Getting Started
 To get started with CD Pipeline Kubernetes, you'll need to clone the repository and install the necessary tools and dependencies.
 
+## Prerequisites
+You'll need the following tools and dependencies installed:
+
+* Git
+* Jenkins
+* Docker
+* Kubernetes
+* Prometheus
+* Grafana
+* Slack
