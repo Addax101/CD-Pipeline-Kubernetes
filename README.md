@@ -36,3 +36,6 @@ export SLACK_WEBHOOK_URL=your-slack-webhook-url
 ```
 
 Create a Jenkinsfile in the root directory of your project to define the stages of the pipeline.
+
+## Usage
+To use CD Pipeline Kubernetes, simply commit your changes to Git and push them to your forked repository on GitHub. Jenkins will automatically detect the changes and trigger the pipeline
