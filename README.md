@@ -21,5 +21,4 @@ You'll need the following tools and dependencies installed:
 * Slack
 
 ## Installing
-Clone the repository:
-bash
+Clone the repository:`git clone https://github.com/Addax101/cd-pipeline-kubernetes.git`
