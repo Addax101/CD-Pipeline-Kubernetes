@@ -39,3 +39,4 @@ Create a Jenkinsfile in the root directory of your project to define the stages 
 
 ## Usage
 To use CD Pipeline Kubernetes, simply commit your changes to Git and push them to your forked repository on GitHub. Jenkins will automatically detect the changes and trigger the pipeline
+Monitor the pipeline status using Prometheus and Grafana dashboards, and receive notifications of pipeline status on Slack.
