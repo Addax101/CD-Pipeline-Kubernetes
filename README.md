@@ -45,4 +45,4 @@ Monitor the pipeline status using Prometheus and Grafana dashboards, and receive
 Contributions are welcome and can be submitted through GitHub pull requests. Contributors should follow the project's coding and documentation standards. Code reviews and automated tests will be performed before merging contributions into the main branch.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/Addax101/CD-Pipeline-Kubernetes/blob/main/LICENSE) - see the LICENSE file for details.
