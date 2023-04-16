@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins.example.com%2Fjob%2Fcd-pipeline-kubernetes%2F&style=flat-square)](https://jenkins.example.com/job/cd-pipeline-kubernetes/)
 [![License](https://img.shields.io/github/license/Addax101/cd-pipeline-kubernetes?style=flat-square)](https://github.com/Addax101/CD-Pipeline-Kubernetes/blob/main/LICENSE)
 
-CD Pipeline Kubernetes is an end-to-end pipeline that automates the deployment of software to production using Jenkins, Docker, Kubernetes, Prometheus, Grafana, and Slack. The pipeline includes various stages such as build, test, deploy, and release, and is designed to support continuous delivery best practices. 
+*CD Pipeline Kubernetes* is an end-to-end pipeline that automates the deployment of software to production using Jenkins, Docker, Kubernetes, Prometheus, Grafana, and Slack. The pipeline includes various stages such as build, test, deploy, and release, and is designed to support continuous delivery best practices. 
 
 
 ## Getting Started
